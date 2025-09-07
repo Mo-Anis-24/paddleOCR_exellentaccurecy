@@ -85,3 +85,4 @@ ocr_outputs/
 6. **User Interaction**: Cleanup prompts and confirmation dialogs
 
 Your OCR system is now **production-ready** with enterprise-level features for accurate text and table extraction!
+

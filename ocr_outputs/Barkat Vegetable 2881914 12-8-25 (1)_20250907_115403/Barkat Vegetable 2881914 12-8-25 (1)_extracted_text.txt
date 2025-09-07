@@ -1,0 +1,1829 @@
+OCR Text Extraction Results
+==================================================
+Total Pages: 1
+Total Text Regions: 454
+Average Confidence: 0.693
+Processing Time: 2025-09-07T11:55:16.458798
+==================================================
+
+PAGE 1
+--------------------
+  1. م..م (هكاوفلاوراضخللتاكرب ةكرش
+     Confidence: 0.871
+
+  2. Barakat
+     Confidence: 0.998
+
+  3. Barakat Vegetables & Fruits Co. (L.L.C.)
+     Confidence: 0.954
+
+  4. Importers of Fresh Fruits & Vegetables
+     Confidence: 0.938
+
+  5. We werve thi bout of fugk
+     Confidence: 0.719
+
+  6. Group TRN No.: 100009274000003
+     Confidence: 0.940
+
+  7. 605
+     Confidence: 0.281
+
+  8. Involce:
+     Confidence: 0.951
+
+  9. trvcicedato
+     Confidence: 0.714
+
+ 10. 12-AUg-2025
+     Confidence: 0.917
+
+ 11. TAX INVOICE
+     Confidence: 0.996
+
+ 12. 1101-SON-2881914
+     Confidence: 0.958
+
+ 13. Due date
+     Confidence: 0.946
+
+ 14. 30-Sep-2025
+     Confidence: 0.931
+
+ 15. Customer reference
+     Confidence: 0.952
+
+ 16. Route
+     Confidence: 0.901
+
+ 17. 101
+     Confidence: 0.933
+
+ 18. Involce to
+     Confidence: 0.969
+
+ 19. Sales Order.
+     Confidence: 0.981
+
+ 20. Locetion Id
+     Confidence: 0.934
+
+ 21. ADCOP
+     Confidence: 0.985
+
+ 22. C16631 AMADIO RESTAURANT
+     Confidence: 0.880
+
+ 23. 1101BP.105230
+     Confidence: 0.965
+
+ 24. Tems of peymant
+     Confidence: 0.811
+
+ 25. 30 DAYS FROM END
+     Confidence: 0.969
+
+ 26. TRN:104311971600003
+     Confidence: 0.945
+
+ 27. OFMONTH
+     Confidence: 0.998
+
+ 28. Jumrirah Vilage Circie - Towe A Lezward S W.-
+     Confidence: 0.790
+
+ 29. Dubal
+     Confidence: 0.927
+
+ 30. Total CO2 Saved
+     Confidence: 0.991
+
+ 31. Contact person
+     Confidence: 0.928
+
+ 32. 0505408923
+     Confidence: 0.938
+
+ 33. Dubal, United Arab Emirates
+     Confidence: 0.906
+
+ 34. Shipto
+     Confidence: 0.893
+
+ 35.  O
+     Confidence: 0.588
+
+ 36. 5,15kp/C02
+     Confidence: 0.658
+
+ 37. CYE531-AMADIO RESTAURANT
+     Confidence: 0.890
+
+ 38. reduction
+     Confidence: 0.976
+
+ 39. TrN:104311971600003
+     Confidence: 0.935
+
+ 40. 
+     Confidence: 0.000
+
+ 41. REATR
+     Confidence: 0.297
+
+ 42. Jumelrah Viiage Crcle - Tower A Lezuward sw-
+     Confidence: 0.820
+
+ 43. Dubal
+     Confidence: 0.756
+
+ 44. Dubal; Unitad Arab Emtretes
+     Confidence: 0.854
+
+ 45. 1
+     Confidence: 0.410
+
+ 46. Tatalnis!
+     Confidence: 0.763
+
+ 47. R
+     Confidence: 0.952
+
+ 48. Total
+     Confidence: 0.993
+
+ 49. Totad boore
+     Confidence: 0.679
+
+ 50. Discoun
+     Confidence: 0.796
+
+ 51. Total Armount
+     Confidence: 0.823
+
+ 52. tem
+     Confidence: 0.729
+
+ 53. Description
+     Confidence: 0.904
+
+ 54. Uht.
+     Confidence: 0.885
+
+ 55. ciy
+     Confidence: 0.625
+
+ 56. Prica
+     Confidence: 0.957
+
+ 57. emount
+     Confidence: 0.715
+
+ 58. VAT
+     Confidence: 0.673
+
+ 59. (nc VAT)
+     Confidence: 0.750
+
+ 60. discount
+     Confidence: 0.991
+
+ 61. number
+     Confidence: 0.810
+
+ 62. VAY
+     Confidence: 0.932
+
+ 63. 380-1-53
+     Confidence: 0.469
+
+ 64. .000
+     Confidence: 0.933
+
+ 65. 005
+     Confidence: 0.730
+
+ 66. 0.00
+     Confidence: 0.994
+
+ 67. 3.00 5%
+     Confidence: 0.979
+
+ 68. 0.15
+     Confidence: 0.995
+
+ 69. 3.15
+     Confidence: 0.836
+
+ 70. Carot
+     Confidence: 0.589
+
+ 71. 3.00
+     Confidence: 0.934
+
+ 72. 61
+     Confidence: 0.425
+
+ 73. 100152
+     Confidence: 0.952
+
+ 74. 1.000
+     Confidence: 0.971
+
+ 75. 5.50
+     Confidence: 0.908
+
+ 76. 4
+     Confidence: 0.574
+
+ 77. 5.50
+     Confidence: 0.944
+
+ 78. D.00
+     Confidence: 0.850
+
+ 79. 5.50 5%
+     Confidence: 0.885
+
+ 80. 0.28
+     Confidence: 0.871
+
+ 81. .5.78-
+     Confidence: 0.831
+
+ 82. 100168
+     Confidence: 0.855
+
+ 83. CetrySick
+     Confidence: 0.795
+
+ 84. 000
+     Confidence: 0.743
+
+ 85. 5.75
+     Confidence: 0.937
+
+ 86. 48.00
+     Confidence: 0.948
+
+ 87. 0.00
+     Confidence: 0.945
+
+ 88. 40.00 5%
+     Confidence: 0.827
+
+ 89. 230
+     Confidence: 0.965
+
+ 90. 42.30
+     Confidence: 0.809
+
+ 91. 3
+     Confidence: 0.978
+
+ 92. 1D0066
+     Confidence: 0.797
+
+ 93. Bost In Pot
+     Confidence: 0.834
+
+ 94. 0001
+     Confidence: 0.852
+
+ 95. 20.00
+     Confidence: 0.842
+
+ 96. 29.00
+     Confidence: 0.932
+
+ 97. B.00
+     Confidence: 0.907
+
+ 98. 29.00 5%..
+     Confidence: 0.832
+
+ 99. 1.45
+     Confidence: 0.754
+
+100. 30.5
+     Confidence: 0.938
+
+101. 10048 Kele
+     Confidence: 0.788
+
+102. 3,000
+     Confidence: 0.963
+
+103. 3.00
+     Confidence: 0.916
+
+104. 1g.00
+     Confidence: 0.764
+
+105. .0,00
+     Confidence: 0.918
+
+106. 8,005%-.
+     Confidence: 0.817
+
+107. ..0.45_.
+     Confidence: 0.829
+
+108. 8.45
+     Confidence: 0.761
+
+109. 100710Pomito
+     Confidence: 0.735
+
+110. .
+     Confidence: 0.440
+
+111. 5000
+     Confidence: 0.682
+
+112. 3.00
+     Confidence: 0.999
+
+113. 15.00
+     Confidence: 0.975
+
+114. 0.00
+     Confidence: 0.996
+
+115. 15.00 5%
+     Confidence: 0.902
+
+116. 0.75
+     Confidence: 0.950
+
+117. 15.75
+     Confidence: 0.998
+
+118. 8
+     Confidence: 0.910
+
+119. 100628.-Onlon Red
+     Confidence: 0.819
+
+120. ..ye.
+     Confidence: 0.700
+
+121. Kg
+     Confidence: 0.681
+
+122. 0.500
+     Confidence: 0.947
+
+123. 3.00.
+     Confidence: 0.984
+
+124. 1.50
+     Confidence: 0.653
+
+125. 0.00.
+     Confidence: 0.971
+
+126. 1.50.5%
+     Confidence: 0.934
+
+127. 0.00
+     Confidence: 0.747
+
+128. 1.56
+     Confidence: 0.828
+
+129. :7.
+     Confidence: 0.679
+
+130. 100292
+     Confidence: 0.986
+
+131. Cucumber
+     Confidence: 0.972
+
+132. K
+     Confidence: 0.972
+
+133. 0.200
+     Confidence: 0.909
+
+134. 5.00
+     Confidence: 0.879
+
+135. *1.00
+     Confidence: 0.711
+
+136. .0.00
+     Confidence: 0.901
+
+137. 1.00 5%
+     Confidence: 0.928
+
+138. 0.05
+     Confidence: 0.803
+
+139. 100470
+     Confidence: 0.992
+
+140. Perslay.
+     Confidence: 0.812
+
+141. 1.05
+     Confidence: 0.976
+
+142. 18
+     Confidence: 0.753
+
+143. .
+     Confidence: 0.384
+
+144. 3.30
+     Confidence: 0.816
+
+145. /3305%
+     Confidence: 0.959
+
+146. ;
+     Confidence: 0.297
+
+147. 8
+     Confidence: 0.210
+
+148. Mr05917
+     Confidence: 0.665
+
+149. Mushroom Buttion Whha
+     Confidence: 0.895
+
+150. kq$
+     Confidence: 0.427
+
+151. 0.200
+     Confidence: 0.838
+
+152. 16.50
+     Confidence: 0.987
+
+153. 0.00
+     Confidence: 0.995
+
+154. 0.17
+     Confidence: 0.942
+
+155. 3.47
+     Confidence: 0.972
+
+156. W
+     Confidence: 0.336
+
+157. F1
+     Confidence: 0.707
+
+158. 1.00 5%
+     Confidence: 0.914
+
+159. .
+     Confidence: 0.194
+
+160. 10
+     Confidence: 0.901
+
+161. Mant Leares
+     Confidence: 0.754
+
+162. D.2
+     Confidence: 0.772
+
+163. 5.00
+     Confidence: 0.607
+
+164. 0.00
+     Confidence: 0.990
+
+165. 0.06
+     Confidence: 0.894
+
+166. 1.05
+     Confidence: 0.904
+
+167.  D61
+     Confidence: 0.592
+
+168. O
+     Confidence: 0.529
+
+169. Kg
+     Confidence: 0.980
+
+170. 21.00
+     Confidence: 0.993
+
+171. 63.00
+     Confidence: 0.989
+
+172. 0.00
+     Confidence: 0.976
+
+173. 63.00 5%
+     Confidence: 0.945
+
+174. Tomats Cherry Red
+     Confidence: 0.989
+
+175. 3.000
+     Confidence: 0.936
+
+176. 3.15
+     Confidence: 0.945
+
+177. n
+     Confidence: 0.491
+
+178. 100057
+     Confidence: 0.888
+
+179. 66.15
+     Confidence: 0.689
+
+180. 28.00
+     Confidence: 0.933
+
+181. 0.00
+     Confidence: 0.966
+
+182. 26.00 5%
+     Confidence: 0.874
+
+183. Kg
+     Confidence: 0.902
+
+184. 0.500
+     Confidence: 0.993
+
+185. 5200
+     Confidence: 0.999
+
+186. 1.30
+     Confidence: 0.974
+
+187. 27.30
+     Confidence: 0.992
+
+188. 12 100531
+     Confidence: 0.916
+
+189. Lsltice Wild Roqustts
+     Confidence: 0.811
+
+190. C
+     Confidence: 0.262
+
+191. 28.00
+     Confidence: 0.953
+
+192. 0.00
+     Confidence: 0.967
+
+193. 29.00 5%
+     Confidence: 0.838
+
+194. 2000
+     Confidence: 0.999
+
+195. 14.50
+     Confidence: 0.997
+
+196. 1,45
+     Confidence: 0.847
+
+197. 13, Jog.
+     Confidence: 0.882
+
+198. Kg.
+     Confidence: 0.980
+
+199. 30.45
+     Confidence: 0.994
+
+200. Tomato Plum/Roma
+     Confidence: 0.877
+
+201. 1285
+     Confidence: 0.898
+
+202. 25.80
+     Confidence: 0.905
+
+203. 0.00
+     Confidence: 0.946
+
+204. .90.5%
+     Confidence: 0.938
+
+205. 1.30
+     Confidence: 0.969
+
+206. Kg.
+     Confidence: 0.777
+
+207. 2000
+     Confidence: 0.979
+
+208. 27.20
+     Confidence: 0.908
+
+209. 14 180847
+     Confidence: 0.860
+
+210. Tomato Bunch
+     Confidence: 0.945
+
+211. O
+     Confidence: 0.458
+
+212. Kg
+     Confidence: 0.929
+
+213. 1.000
+     Confidence: 0.994
+
+214. 36,00
+     Confidence: 0.921
+
+215. 36.00
+     Confidence: 0.944
+
+216. 0.00
+     Confidence: 0.845
+
+217. 38,00_5%
+     Confidence: 0.865
+
+218. 15 100817
+     Confidence: 0.889
+
+219. Strawbeny
+     Confidence: 0.845
+
+220. 1.50
+     Confidence: 0.838
+
+221. 37.80
+     Confidence: 0.976
+
+222. 28.600 
+     Confidence: 0.918
+
+223. 0.00
+     Confidence: 0.999
+
+224. 294.20
+     Confidence: 0.951
+
+225. 14.73
+     Confidence: 0.990
+
+226. 309.93
+     Confidence: 0.996
+
+227. Kotal net amount:
+     Confidence: 0.960
+
+228. 294.20
+     Confidence: 0.920
+
+229. TotalVAT:
+     Confidence: 0.932
+
+230. 14.73
+     Confidence: 0.995
+
+231. Curroncy
+     Confidence: 0.824
+
+232. AED
+     Confidence: 0.987
+
+233. Total arriount due
+     Confidence: 0.929
+
+234. 308.93
+     Confidence: 0.998
+
+235. Amourt in words Thrae Hunded Eghit and 93100
+     Confidence: 0.892
+
+236. 55
+     Confidence: 0.297
+
+237. 1 2 AUG 2325
+     Confidence: 0.959
+
+238. Thisis a Systam Genaraled Prin and does not require signature
+     Confidence: 0.822
+
+239. BY
+     Confidence: 0.997
+
+240. Generated on
+     Confidence: 0.951
+
+241. Page 1 of 2
+     Confidence: 0.822
+
+242. 11-Aug-2025 0933:42
+     Confidence: 0.959
+
+243. Al Aweer,[Nad Al Hamdr [Abu Dhabi |Sharjah
+     Confidence: 0.909
+
+244. P.O.Box:11286,Dubgl-U.A.E.04-3356667/.04-2393333
+     Confidence: 0.910
+
+245. 04-3335665/.04-2393336
+     Confidence: 0.993
+
+246. contact@barakatuae.ae
+     Confidence: 0.986
+
+247. 04-3335665/04-2393336
+     Confidence: 0.980
+
+248. www.barakatuae.ae
+     Confidence: 0.977
+
+249. it
+     Confidence: 0.608
+
+250. 
+     Confidence: 0.000
+
+251. Barokot
+     Confidence: 0.918
+
+252. 
+     Confidence: 0.000
+
+253. ٤٤.٤
+     Confidence: 0.604
+
+254. ي
+     Confidence: 0.449
+
+255. Invelce.
+     Confidence: 0.935
+
+256. I zwolcd nt.
+     Confidence: 0.677
+
+257. THX INVOICE
+     Confidence: 0.724
+
+258. يد
+     Confidence: 0.336
+
+259. 
+     Confidence: 0.000
+
+260. آ
+     Confidence: 0.452
+
+261. 
+     Confidence: 0.000
+
+262. Rout!
+     Confidence: 0.892
+
+263. Im
+     Confidence: 0.523
+
+264. Sales order.
+     Confidence: 0.883
+
+265. Adcor.
+     Confidence: 0.765
+
+266. ه
+     Confidence: 0.333
+
+267. Of mdnth
+     Confidence: 0.765
+
+268. 
+     Confidence: 0.000
+
+269. 
+     Confidence: 0.000
+
+270. Cgriad ptrsh
+     Confidence: 0.814
+
+271. اقشأ
+     Confidence: 0.610
+
+272. Tt tuco?
+     Confidence: 0.578
+
+273. Ieaucticn
+     Confidence: 0.579
+
+274. 
+     Confidence: 0.000
+
+275. Ew!!
+     Confidence: 0.770
+
+276. هتطلا
+     Confidence: 0.541
+
+277. و
+     Confidence: 0.314
+
+278. Hha bier.
+     Confidence: 0.573
+
+279. !
+     Confidence: 0.912
+
+280. Tokt
+     Confidence: 0.933
+
+281. Hein?
+     Confidence: 0.696
+
+282. خترلا
+     Confidence: 0.647
+
+283. Pjira.
+     Confidence: 0.788
+
+284. Careurt-
+     Confidence: 0.624
+
+285. :
+     Confidence: 0.621
+
+286. بط
+     Confidence: 0.340
+
+287. Le s jitbn.
+     Confidence: 0.635
+
+288. dis cogitلا
+     Confidence: 0.604
+
+289. 
+     Confidence: 0.000
+
+290. AHEVAT
+     Confidence: 0.710
+
+291. 
+     Confidence: 0.000
+
+292. .
+     Confidence: 0.382
+
+293. قق
+     Confidence: 0.439
+
+294. قفف
+     Confidence: 0.636
+
+295. آ
+     Confidence: 0.885
+
+296. ا
+     Confidence: 0.294
+
+297. 3.S
+     Confidence: 0.542
+
+298. ح
+     Confidence: 0.176
+
+299. Sاsا
+     Confidence: 0.496
+
+300. اs
+     Confidence: 0.486
+
+301. C
+     Confidence: 0.378
+
+302. ا
+     Confidence: 0.463
+
+303. دول
+     Confidence: 0.334
+
+304. 
+     Confidence: 0.000
+
+305. 
+     Confidence: 0.000
+
+306. اك
+     Confidence: 0.196
+
+307. Jo
+     Confidence: 0.469
+
+308. Is5o.
+     Confidence: 0.584
+
+309. 55
+     Confidence: 0.842
+
+310. 65t
+     Confidence: 0.511
+
+311. ود
+     Confidence: 0.634
+
+312. Sie-
+     Confidence: 0.711
+
+313. خ
+     Confidence: 0.928
+
+314. is
+     Confidence: 0.473
+
+315. ci
+     Confidence: 0.587
+
+316. هo
+     Confidence: 0.647
+
+317. s
+     Confidence: 0.416
+
+318. ?xD
+     Confidence: 0.295
+
+319. .
+     Confidence: 0.845
+
+320. 
+     Confidence: 0.000
+
+321. 8.d?
+     Confidence: 0.455
+
+322. ه.ب
+     Confidence: 0.529
+
+323. قasX
+     Confidence: 0.427
+
+324. 
+     Confidence: 0.000
+
+325. Trrx.
+     Confidence: 0.596
+
+326. Estu
+     Confidence: 0.693
+
+327. م
+     Confidence: 0.293
+
+328. ا
+     Confidence: 0.206
+
+329. Am5e..
+     Confidence: 0.560
+
+330. اذ
+     Confidence: 0.390
+
+331. 1
+     Confidence: 0.538
+
+332. te!
+     Confidence: 0.614
+
+333. 
+     Confidence: 0.000
+
+334. Jtite.
+     Confidence: 0.643
+
+335. Kae.
+     Confidence: 0.761
+
+336. ة
+     Confidence: 0.577
+
+337. :3 D.
+     Confidence: 0.738
+
+338. Isrto.
+     Confidence: 0.690
+
+339. ي.
+     Confidence: 0.539
+
+340. وك
+     Confidence: 0.584
+
+341. 
+     Confidence: 0.000
+
+342. 
+     Confidence: 0.000
+
+343. T --
+     Confidence: 0.550
+
+344. 
+     Confidence: 0.000
+
+345. 
+     Confidence: 0.000
+
+346. كف
+     Confidence: 0.548
+
+347. 3po:
+     Confidence: 0.432
+
+348. هm
+     Confidence: 0.450
+
+349. T5.i!5?
+     Confidence: 0.733
+
+350. 55
+     Confidence: 0.985
+
+351. 
+     Confidence: 0.000
+
+352. K
+     Confidence: 0.489
+
+353. Giso.
+     Confidence: 0.706
+
+354. 3.
+     Confidence: 0.990
+
+355. . if.
+     Confidence: 0.798
+
+356. اءtت
+     Confidence: 0.502
+
+357. Iie.
+     Confidence: 0.701
+
+358. 
+     Confidence: 0.000
+
+359. TM?
+     Confidence: 0.584
+
+360. ءه
+     Confidence: 0.585
+
+361. همت
+     Confidence: 0.830
+
+362. ةي
+     Confidence: 0.363
+
+363. 'PmiFay.
+     Confidence: 0.679
+
+364. n.
+     Confidence: 0.717
+
+365. 5m
+     Confidence: 0.272
+
+366. I+$
+     Confidence: 0.392
+
+367. .
+     Confidence: 0.976
+
+368. ءادس
+     Confidence: 0.497
+
+369. Ibe?
+     Confidence: 0.432
+
+370. 1?!
+     Confidence: 0.726
+
+371. م?
+     Confidence: 0.530
+
+372. i?
+     Confidence: 0.733
+
+373. nd?
+     Confidence: 0.765
+
+374. 
+     Confidence: 0.000
+
+375. Ii.
+     Confidence: 0.768
+
+376. 
+     Confidence: 0.000
+
+377. 
+     Confidence: 0.000
+
+378. 
+     Confidence: 0.000
+
+379. 
+     Confidence: 0.000
+
+380. و
+     Confidence: 0.671
+
+381. 
+     Confidence: 0.000
+
+382. 1id sg..
+     Confidence: 0.703
+
+383. Shh Lens
+     Confidence: 0.723
+
+384. هتتك
+     Confidence: 0.667
+
+385. ت
+     Confidence: 0.295
+
+386. أف
+     Confidence: 0.771
+
+387. ص
+     Confidence: 0.354
+
+388. 2و
+     Confidence: 0.333
+
+389. Rcse.
+     Confidence: 0.560
+
+390. 35.
+     Confidence: 0.835
+
+391. أ
+     Confidence: 0.912
+
+392. ioresz!
+     Confidence: 0.721
+
+393. ة.is
+     Confidence: 0.579
+
+394. 
+     Confidence: 0.000
+
+395. ا
+     Confidence: 0.460
+
+396. ه5R
+     Confidence: 0.613
+
+397. ',0.
+     Confidence: 0.763
+
+398. A 5.
+     Confidence: 0.540
+
+399. T3
+     Confidence: 0.548
+
+400. 27 .
+     Confidence: 0.628
+
+401. اآ.
+     Confidence: 0.576
+
+402. 12.
+     Confidence: 0.837
+
+403. '1Iا
+     Confidence: 0.649
+
+404. i.s
+     Confidence: 0.566
+
+405. 
+     Confidence: 0.000
+
+406. ي
+     Confidence: 0.882
+
+407. 20'
+     Confidence: 0.905
+
+408. :1459:
+     Confidence: 0.775
+
+409. 3.5
+     Confidence: 0.663
+
+410. Tctatd Fhrhyron?
+     Confidence: 0.744
+
+411. K5
+     Confidence: 0.551
+
+412. BE.5
+     Confidence: 0.435
+
+413. 
+     Confidence: 0.000
+
+414. Zot.
+     Confidence: 0.689
+
+415. 
+     Confidence: 0.000
+
+416. hEiT!
+     Confidence: 0.396
+
+417. 
+     Confidence: 0.000
+
+418. ن
+     Confidence: 0.873
+
+419. 3.m
+     Confidence: 0.594
+
+420. 1.t.
+     Confidence: 0.747
+
+421. نه
+     Confidence: 0.349
+
+422. 3yم
+     Confidence: 0.572
+
+423. 1
+     Confidence: 0.739
+
+424. intei.
+     Confidence: 0.784
+
+425. TEAF.
+     Confidence: 0.635
+
+426. 2.60
+     Confidence: 0.707
+
+427. H..
+     Confidence: 0.932
+
+428. Ftal.net artiouut.
+     Confidence: 0.799
+
+429. 84:2
+     Confidence: 0.835
+
+430. 
+     Confidence: 0.000
+
+431. 
+     Confidence: 0.000
+
+432. TitlyaT:
+     Confidence: 0.762
+
+433. 14ي3
+     Confidence: 0.486
+
+434. Curzonty.
+     Confidence: 0.857
+
+435. AE.
+     Confidence: 0.646
+
+436. ج
+     Confidence: 0.334
+
+437. Iat enitint' dhu
+     Confidence: 0.633
+
+438. 3.ss
+     Confidence: 0.706
+
+439. AU5 2323
+     Confidence: 0.737
+
+440. 
+     Confidence: 0.000
+
+441. 
+     Confidence: 0.000
+
+442. 
+     Confidence: 0.000
+
+443. ك
+     Confidence: 0.239
+
+444. Sanareted dnt.
+     Confidence: 0.755
+
+445. 11Al1 225 D883:42
+     Confidence: 0.762
+
+446. 
+     Confidence: 0.000
+
+447. ن
+     Confidence: 0.412
+
+448. 04-3335666/04/2393353
+     Confidence: 0.898
+
+449. 04/3335665/042395356
+     Confidence: 0.834
+
+450. PO,BOx:Ti286, DubuI- V:A.E.
+     Confidence: 0.705
+
+451. Ontactabarakatudeqe?
+     Confidence: 0.858
+
+452. , ar akatu  ae?
+     Confidence: 0.634
+
+453. 
+     Confidence: 0.000
+
+454. ع
+     Confidence: 0.453
+
+
+ALL TEXT COMBINED
+====================
+  1. م..م (هكاوفلاوراضخللتاكرب ةكرش
+  2. Barakat
+  3. Barakat Vegetables & Fruits Co. (L.L.C.)
+  4. Importers of Fresh Fruits & Vegetables
+  5. We werve thi bout of fugk
+  6. Group TRN No.: 100009274000003
+  7. 605
+  8. Involce:
+  9. trvcicedato
+ 10. 12-AUg-2025
+ 11. TAX INVOICE
+ 12. 1101-SON-2881914
+ 13. Due date
+ 14. 30-Sep-2025
+ 15. Customer reference
+ 16. Route
+ 17. 101
+ 18. Involce to
+ 19. Sales Order.
+ 20. Locetion Id
+ 21. ADCOP
+ 22. C16631 AMADIO RESTAURANT
+ 23. 1101BP.105230
+ 24. Tems of peymant
+ 25. 30 DAYS FROM END
+ 26. TRN:104311971600003
+ 27. OFMONTH
+ 28. Jumrirah Vilage Circie - Towe A Lezward S W.-
+ 29. Dubal
+ 30. Total CO2 Saved
+ 31. Contact person
+ 32. 0505408923
+ 33. Dubal, United Arab Emirates
+ 34. Shipto
+ 35.  O
+ 36. 5,15kp/C02
+ 37. CYE531-AMADIO RESTAURANT
+ 38. reduction
+ 39. TrN:104311971600003
+ 40. 
+ 41. REATR
+ 42. Jumelrah Viiage Crcle - Tower A Lezuward sw-
+ 43. Dubal
+ 44. Dubal; Unitad Arab Emtretes
+ 45. 1
+ 46. Tatalnis!
+ 47. R
+ 48. Total
+ 49. Totad boore
+ 50. Discoun
+ 51. Total Armount
+ 52. tem
+ 53. Description
+ 54. Uht.
+ 55. ciy
+ 56. Prica
+ 57. emount
+ 58. VAT
+ 59. (nc VAT)
+ 60. discount
+ 61. number
+ 62. VAY
+ 63. 380-1-53
+ 64. .000
+ 65. 005
+ 66. 0.00
+ 67. 3.00 5%
+ 68. 0.15
+ 69. 3.15
+ 70. Carot
+ 71. 3.00
+ 72. 61
+ 73. 100152
+ 74. 1.000
+ 75. 5.50
+ 76. 4
+ 77. 5.50
+ 78. D.00
+ 79. 5.50 5%
+ 80. 0.28
+ 81. .5.78-
+ 82. 100168
+ 83. CetrySick
+ 84. 000
+ 85. 5.75
+ 86. 48.00
+ 87. 0.00
+ 88. 40.00 5%
+ 89. 230
+ 90. 42.30
+ 91. 3
+ 92. 1D0066
+ 93. Bost In Pot
+ 94. 0001
+ 95. 20.00
+ 96. 29.00
+ 97. B.00
+ 98. 29.00 5%..
+ 99. 1.45
+100. 30.5
+101. 10048 Kele
+102. 3,000
+103. 3.00
+104. 1g.00
+105. .0,00
+106. 8,005%-.
+107. ..0.45_.
+108. 8.45
+109. 100710Pomito
+110. .
+111. 5000
+112. 3.00
+113. 15.00
+114. 0.00
+115. 15.00 5%
+116. 0.75
+117. 15.75
+118. 8
+119. 100628.-Onlon Red
+120. ..ye.
+121. Kg
+122. 0.500
+123. 3.00.
+124. 1.50
+125. 0.00.
+126. 1.50.5%
+127. 0.00
+128. 1.56
+129. :7.
+130. 100292
+131. Cucumber
+132. K
+133. 0.200
+134. 5.00
+135. *1.00
+136. .0.00
+137. 1.00 5%
+138. 0.05
+139. 100470
+140. Perslay.
+141. 1.05
+142. 18
+143. .
+144. 3.30
+145. /3305%
+146. ;
+147. 8
+148. Mr05917
+149. Mushroom Buttion Whha
+150. kq$
+151. 0.200
+152. 16.50
+153. 0.00
+154. 0.17
+155. 3.47
+156. W
+157. F1
+158. 1.00 5%
+159. .
+160. 10
+161. Mant Leares
+162. D.2
+163. 5.00
+164. 0.00
+165. 0.06
+166. 1.05
+167.  D61
+168. O
+169. Kg
+170. 21.00
+171. 63.00
+172. 0.00
+173. 63.00 5%
+174. Tomats Cherry Red
+175. 3.000
+176. 3.15
+177. n
+178. 100057
+179. 66.15
+180. 28.00
+181. 0.00
+182. 26.00 5%
+183. Kg
+184. 0.500
+185. 5200
+186. 1.30
+187. 27.30
+188. 12 100531
+189. Lsltice Wild Roqustts
+190. C
+191. 28.00
+192. 0.00
+193. 29.00 5%
+194. 2000
+195. 14.50
+196. 1,45
+197. 13, Jog.
+198. Kg.
+199. 30.45
+200. Tomato Plum/Roma
+201. 1285
+202. 25.80
+203. 0.00
+204. .90.5%
+205. 1.30
+206. Kg.
+207. 2000
+208. 27.20
+209. 14 180847
+210. Tomato Bunch
+211. O
+212. Kg
+213. 1.000
+214. 36,00
+215. 36.00
+216. 0.00
+217. 38,00_5%
+218. 15 100817
+219. Strawbeny
+220. 1.50
+221. 37.80
+222. 28.600 
+223. 0.00
+224. 294.20
+225. 14.73
+226. 309.93
+227. Kotal net amount:
+228. 294.20
+229. TotalVAT:
+230. 14.73
+231. Curroncy
+232. AED
+233. Total arriount due
+234. 308.93
+235. Amourt in words Thrae Hunded Eghit and 93100
+236. 55
+237. 1 2 AUG 2325
+238. Thisis a Systam Genaraled Prin and does not require signature
+239. BY
+240. Generated on
+241. Page 1 of 2
+242. 11-Aug-2025 0933:42
+243. Al Aweer,[Nad Al Hamdr [Abu Dhabi |Sharjah
+244. P.O.Box:11286,Dubgl-U.A.E.04-3356667/.04-2393333
+245. 04-3335665/.04-2393336
+246. contact@barakatuae.ae
+247. 04-3335665/04-2393336
+248. www.barakatuae.ae
+249. it
+250. 
+251. Barokot
+252. 
+253. ٤٤.٤
+254. ي
+255. Invelce.
+256. I zwolcd nt.
+257. THX INVOICE
+258. يد
+259. 
+260. آ
+261. 
+262. Rout!
+263. Im
+264. Sales order.
+265. Adcor.
+266. ه
+267. Of mdnth
+268. 
+269. 
+270. Cgriad ptrsh
+271. اقشأ
+272. Tt tuco?
+273. Ieaucticn
+274. 
+275. Ew!!
+276. هتطلا
+277. و
+278. Hha bier.
+279. !
+280. Tokt
+281. Hein?
+282. خترلا
+283. Pjira.
+284. Careurt-
+285. :
+286. بط
+287. Le s jitbn.
+288. dis cogitلا
+289. 
+290. AHEVAT
+291. 
+292. .
+293. قق
+294. قفف
+295. آ
+296. ا
+297. 3.S
+298. ح
+299. Sاsا
+300. اs
+301. C
+302. ا
+303. دول
+304. 
+305. 
+306. اك
+307. Jo
+308. Is5o.
+309. 55
+310. 65t
+311. ود
+312. Sie-
+313. خ
+314. is
+315. ci
+316. هo
+317. s
+318. ?xD
+319. .
+320. 
+321. 8.d?
+322. ه.ب
+323. قasX
+324. 
+325. Trrx.
+326. Estu
+327. م
+328. ا
+329. Am5e..
+330. اذ
+331. 1
+332. te!
+333. 
+334. Jtite.
+335. Kae.
+336. ة
+337. :3 D.
+338. Isrto.
+339. ي.
+340. وك
+341. 
+342. 
+343. T --
+344. 
+345. 
+346. كف
+347. 3po:
+348. هm
+349. T5.i!5?
+350. 55
+351. 
+352. K
+353. Giso.
+354. 3.
+355. . if.
+356. اءtت
+357. Iie.
+358. 
+359. TM?
+360. ءه
+361. همت
+362. ةي
+363. 'PmiFay.
+364. n.
+365. 5m
+366. I+$
+367. .
+368. ءادس
+369. Ibe?
+370. 1?!
+371. م?
+372. i?
+373. nd?
+374. 
+375. Ii.
+376. 
+377. 
+378. 
+379. 
+380. و
+381. 
+382. 1id sg..
+383. Shh Lens
+384. هتتك
+385. ت
+386. أف
+387. ص
+388. 2و
+389. Rcse.
+390. 35.
+391. أ
+392. ioresz!
+393. ة.is
+394. 
+395. ا
+396. ه5R
+397. ',0.
+398. A 5.
+399. T3
+400. 27 .
+401. اآ.
+402. 12.
+403. '1Iا
+404. i.s
+405. 
+406. ي
+407. 20'
+408. :1459:
+409. 3.5
+410. Tctatd Fhrhyron?
+411. K5
+412. BE.5
+413. 
+414. Zot.
+415. 
+416. hEiT!
+417. 
+418. ن
+419. 3.m
+420. 1.t.
+421. نه
+422. 3yم
+423. 1
+424. intei.
+425. TEAF.
+426. 2.60
+427. H..
+428. Ftal.net artiouut.
+429. 84:2
+430. 
+431. 
+432. TitlyaT:
+433. 14ي3
+434. Curzonty.
+435. AE.
+436. ج
+437. Iat enitint' dhu
+438. 3.ss
+439. AU5 2323
+440. 
+441. 
+442. 
+443. ك
+444. Sanareted dnt.
+445. 11Al1 225 D883:42
+446. 
+447. ن
+448. 04-3335666/04/2393353
+449. 04/3335665/042395356
+450. PO,BOx:Ti286, DubuI- V:A.E.
+451. Ontactabarakatudeqe?
+452. , ar akatu  ae?
+453. 
+454. ع

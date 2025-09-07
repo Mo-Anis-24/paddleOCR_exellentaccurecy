@@ -346,18 +346,17 @@ class OCRApplication:
         
         return results
     
-    def save_results(self, results, output_file="extracted_text.txt"):
+    def save_results(self, output_file="extracted_text.txt"):
         """
         Save processing results
         
         Args:
-            results (dict): Processing results
             output_file (str): Output file path
         
         Returns:
             bool: True if successful, False otherwise
         """
-        if not results:
+        if not self.text_processor.results:
             print("❌ No results to save")
             return False
         
@@ -510,7 +509,7 @@ def main():
         
         if results:
             # Save results
-            app.save_results(results, output_file)
+            app.save_results(output_file)
             
             # Print summary
             stats = app.get_statistics()

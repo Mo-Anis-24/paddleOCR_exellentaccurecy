@@ -15,3 +15,4 @@ echo Extract and add the 'bin' folder to your system PATH.
 echo.
 pause
 
+

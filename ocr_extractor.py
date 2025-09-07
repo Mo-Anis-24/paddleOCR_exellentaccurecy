@@ -262,7 +262,7 @@ class OCRProcessor:
             )
             
             if temp_processor.ocr_model:
-                result = temp_processor.extract_text_from_image(image_path, detect_tables=False)
+                result = temp_processor.extract_text_from_image(image_path)
                 if result and result['success']:
                     all_results[lang] = result
                     print(f"✓ {lang}: Found {len(result['texts'])} text regions")
