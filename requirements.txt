@@ -1,8 +1,11 @@
+# Essential OCR Dependencies
 paddlepaddle-gpu==3.0.0
 paddleocr
 numpy==1.26.4
 opencv-python
 matplotlib
 Pillow
+
+# PDF Processing Dependencies
 pdf2image
 PyMuPDF

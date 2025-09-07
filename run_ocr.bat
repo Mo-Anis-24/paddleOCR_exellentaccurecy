@@ -1,12 +1,8 @@
 @echo off
-echo PaddleOCR Text Extraction Tool
-echo ==============================
+echo Starting Universal OCR Application...
 echo.
-echo Running OCR on your image...
-echo.
-
-python run_ocr.py
-
+python main_ocr_app.py
 echo.
 echo Press any key to exit...
 pause > nul
+
